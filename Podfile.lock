@@ -1,0 +1,16 @@
+PODS:
+  - ionicons (2.0.1)
+  - KNSemiModalViewController (0.3)
+  - THCalendarDatePicker (1.2.0):
+    - KNSemiModalViewController (~> 0.3)
+
+DEPENDENCIES:
+  - ionicons (~> 2.0.1)
+  - THCalendarDatePicker (~> 1.2.0)
+
+SPEC CHECKSUMS:
+  ionicons: c7b0867373392e85c17f613d19ade04ccfbe5a7c
+  KNSemiModalViewController: 8c0056377714b5170c52c65977d540200405411f
+  THCalendarDatePicker: 16eb78fd0ca01460ad660dc203a565c44b5d3aed
+
+COCOAPODS: 0.37.2
